@@ -1,0 +1,79 @@
+1) What is the average of first five multiples of 12?
+
+36
+38
+40
+42
+
+
+
+2) What is the difference in the place value of 5 in the numeral 754853?
+
+49500
+49950
+45000
+49940
+
+
+3) What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?
+
+Rs. 180
+Rs. 204
+Rs. 210
+Rs. 220
+
+
+4) Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+
+Rs. 5222.2
+Rs. 5777.7
+Rs. 6222.2
+Rs. 6777.7
+
+5) A mother is twice as old as her son. If 20 years ago, the age of the mother was 10 times the age of the son, what is the present age of the mother?
+38 years
+40 years
+43 years
+45 years
+
+6) Two ships are sailing in the sea on the two sides of a lighthouse. The angles of elevation of the top of the lighthouse observed from the ships are 30° and 45° respectively. If the lighthouse is 100m high, find the distance between the two ships.
+
+155.80 m
+157.80 m
+159. 80 m
+161.80 m
+
+
+
+7)40 % of 280 =?
+
+112
+116
+115
+120
+
+
+8) A shopkeeper sold an article for Rs. 2500. If the cost price of the article is 2000, find the profit percent.
+
+23%
+25%
+27%
+29%
+
+
+9)A 60 liter mixture of milk and water contains 10% water. How much water must be added to make water 20% in the mixture?
+
+8 liters
+7.5 liters
+7 liters
+6.5 liters
+
+
+10)The value of 51/4 x (125)0.25 is
+5
+5(5)^1/2
+5
+25
+
+
+
