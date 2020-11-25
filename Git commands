@@ -1,37 +1,54 @@
 
+Commands
+--------
+1.To set the credentials
+
+    syntax
+    ------
+    git remote set-url origin https://<username>:<password>@github.com/<username>/<Repsoitory name>.git
+
+    example
+    -------
+    git remote set-url origin https://ramkishor-hosamane:*******@github.com/ramkishor-hosamane/testgithub.git
+
+2.To clone
+
+    syntax
+    ------
+    git clone link
+
+    example
+    -------
+    git clone https://github.com/ramkishor-hosamane/Social-Media-Analytics-Airport.git
+
+
+3.To pull
+    git pull origin <brnach_name>
+
+4.To push changes
+    
+    syntax
+    ------
+    git add .
+    git commit -m <message_for_commit>
+    git push origin <brnach_name>
+
+    example
+    -------
+    git add .
+    git commit -m "My commit"
+    git push origin master
+
+
+
+
 basic usage guide link
 ---------------------- 
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 
-Commands
+Advanced
 --------
-1.To set the credentials
-
-syntax
-------
-git remote set-url origin https://<username>:<password>@github.com/<username>/<Repsoitory name>.git
-
-example
--------
-git remote set-url origin https://ramkishor-hosamane:*******@github.com/ramkishor-hosamane/testgithub.git
-
-2.To clone
-
-syntax
-------
-git clone link
-
-git clone https://github.com/ramkishor-hosamane/Social-Media-Analytics-Airport.git
-
-
-git pull
-git add .
-
-git remote add origin https://github.com/ramkishor-hosamane/Social-Media-Analytics-Airport.git
-git remote -v
-git commit
-git commit -m "uploading project from local repository"
-git push origin master
-
 git merge <brnach-name>
+git remote add origin https://github.com/ramkishor-hosamane/Social-Media-Analytics-Airport.git
+
